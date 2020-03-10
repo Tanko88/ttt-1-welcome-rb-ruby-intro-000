@@ -1,2 +1,2 @@
 puts "Welcome to Tic Tac Toe!"
-# this is the text
+puts "this is the text"
